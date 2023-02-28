@@ -21,6 +21,8 @@ All the regression models have a low R- squared. For for reels it is 0.160797, f
 
 How to use the models
 
+**REMEMBER TO ENABLE MACROS ON YOUR MS EXCEL**
+
 I made input boxes in VBA using the regression model equations to make it easier for ANYONE to use the models to calculate the price of the each of the items.
 
 Click on one of the three images depending on the which item you want to have the price calculated then enter your follower count in the input box. The price of reels, Instagram stories and static posts will appear in cells A1, A2, A3 respectively.
